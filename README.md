@@ -1,2 +1,2 @@
-# Ununennium
-C++ short GDI trojan by Tubercomiosis99, password: Element119Trojan
+# Ununennium 0.5
+C++ short GDI trojan by NotCCR, password: Element119Trojan
